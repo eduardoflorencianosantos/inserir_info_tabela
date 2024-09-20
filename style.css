@@ -1,0 +1,11 @@
+thead {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+tbody {
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
